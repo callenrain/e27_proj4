@@ -1,8 +1,0 @@
-plan for video_capture.py:
-
-get the image, greyscale
-find eyes
-create line connecting eyes
-rotate that line until it is horizontal
-then use image cropping from callens code
-
